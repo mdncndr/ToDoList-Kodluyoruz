@@ -44,12 +44,6 @@ document.querySelector('#push').onclick = function () {
 
     }
 
-    // let toDos = parse(('.input').text());
-    // localStorage.setItem('input', toDos);
-
-
-    // let toDo = localStorage.getItem("input") ? JSON.parse(localStorage.getItem("input")) : [];
-    // toDo.push(inputValue);
-    // localStorage.setItem("toDo", JSON.stringify(newtask));
+   
 
 }
